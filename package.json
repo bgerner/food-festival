@@ -22,11 +22,13 @@
   },
   "homepage": "https://github.com/bgerner/food-festival#readme",
   "devDependencies": {
+    "@webpack-cli/serve": "^1.5.1",
     "file-loader": "^6.2.0",
     "webpack": "^5.45.1",
     "webpack-bundle-analyzer": "^4.4.2",
     "webpack-cli": "^4.7.2",
-    "webpack-dev-server": "^3.11.2"
+    "webpack-dev-server": "^3.11.2",
+    "webpack-pwa-manifest": "^4.3.0"
   },
   "dependencies": {
     "@popperjs/core": "^2.9.2",
